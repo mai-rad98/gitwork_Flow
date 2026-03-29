@@ -262,7 +262,7 @@ All PRs trigger the following automated checks:
 
 ---
 
-# 10. 📈 Continuous Improvement
+# 10.  Continuous Improvement
 
 This workflow will evolve as the team grows.
 Suggestions for improvement should be raised during:
